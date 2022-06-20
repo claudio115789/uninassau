@@ -1,1 +1,1 @@
-This Python package encapsulates custom sklearn pipeline transforms for use with the Watson Machine Learning API
+Este pacote Python encapsula as transformações personalizadas do pipeline sklearn para uso com a API watson machine learning
